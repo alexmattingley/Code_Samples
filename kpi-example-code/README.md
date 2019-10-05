@@ -1,1 +1,1 @@
-This Folder contains example code from the KPI (key performance Indicator) dashboard that I created while at Intuit. These are just code samples, they are not meant to be run on there own, they are just being used to demonstrate javascript competency
+This Folder contains example code from the KPI (Key Performance Indicator) dashboard that I created while at Intuit. These are just code samples, they are not meant to be run on there own, they are just being used to demonstrate javascript competency
